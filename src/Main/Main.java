@@ -3,7 +3,7 @@ package Main;
 import java.util.Scanner;
 
 public class Main {
-
+//Calcula el promedio
 	public static void main(String[] args) {
 		Scanner scanner= new Scanner(System.in);
 		System.out.println("Ingrese la cantidad de alumnos");
